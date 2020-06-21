@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bts.udpgateway", "bts.udpgateway\bts.udpgateway.csproj", "{C3E57338-9211-4343-AEC1-0551833624EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bts.udpgateway.integration", "bts.udpgateway.integration\bts.udpgateway.integration.csproj", "{FF3056FE-CEAE-4FCF-809F-C77E45FFD22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E57338-9211-4343-AEC1-0551833624EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E57338-9211-4343-AEC1-0551833624EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E57338-9211-4343-AEC1-0551833624EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E57338-9211-4343-AEC1-0551833624EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3056FE-CEAE-4FCF-809F-C77E45FFD22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3056FE-CEAE-4FCF-809F-C77E45FFD22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3056FE-CEAE-4FCF-809F-C77E45FFD22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3056FE-CEAE-4FCF-809F-C77E45FFD22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
